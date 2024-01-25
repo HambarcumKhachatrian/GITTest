@@ -1,3 +1,2 @@
 First string 
 Second line
-Therd line
